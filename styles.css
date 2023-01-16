@@ -1,0 +1,32 @@
+img{
+  display:block;
+  max-width:100%;
+  height:auto;
+  margin:auto;
+}
+
+ 
+ li {
+    margin: 16px 0;
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+ quote{
+    font-style: italic;
+    text-align: center;
+    }
+    .text{
+      text-align:center;
+    }
+    .textalign{
+      width: 500px;
+      margin: auto;
+    }
+    h3{
+      text-align: center;
+    }
+ 
+
+
+
+
